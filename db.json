@@ -1,0 +1,27 @@
+{
+  "randomFoods" : [{
+    "id": "card-1",
+    "imgName": "Flan",
+    "imgFood": "https://drive.google.com/file/d/12YS6x4otXkM10uBiWh3MHylxHkpp4KIs/view?usp=drive_link",
+    "type": "Dulce"
+	},
+	{
+    "id": "card-2",
+    "imgName": "Tacos",
+    "imgFood": "https://drive.google.com/file/d/1-GWLS572hci4iSDsFeO1nP1WTO7AGL7U/view?usp=sharing",
+    "type": "Picante"
+	},
+	{
+    "id": "card-3",
+    "imgName": "Pizza",
+    "imgFood": "https://drive.google.com/file/d/1aNf01f879IevKbXia9mrzBM-coBMdZOm/view?usp=drive_link",
+    "type": "Salado"
+	}, 
+	{
+    "id": "card-4",
+    "imgName": "Ensalada",
+    "imgFood": "https://drive.google.com/file/d/1ymsthPV3I9EbCssj5hTC_RgRkA4YURIg/view?usp=drive_link",
+    "type": "Agrio"
+	}]
+}
+
